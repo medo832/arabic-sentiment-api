@@ -41,7 +41,7 @@ Why this model?
 ```text
 .
 ├── app.py        # Gradio web application
-├── api.py        # FastAPI backend
+├── main.py        # FastAPI backend
 ├── requirements.txt
 └── README.md
 ```

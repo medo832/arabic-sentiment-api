@@ -53,8 +53,8 @@ Why this model?
 Clone the repository:
 
 ```bash
-git clone <https://github.com/medo832/arabic-sentiment-api.git>
-cd <arabic-sentiment-api>
+git clone https://github.com/medo832/arabic-sentiment-api.git
+cd arabic-sentiment-api
 ```
 
 Install dependencies:
